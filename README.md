@@ -28,7 +28,6 @@ Here are some of the languages and tools I'm exploring to sharpen my skills:
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzikriDhaniawan&langs_count=6&theme=tokyonight" alt="Top Languages" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=DzikriDhaniawan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
