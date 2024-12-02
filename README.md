@@ -1,13 +1,17 @@
-# Hi there 👋
+# Hi there 👋 
 
 ## About Me
-I am @DzikriDhaniawan. I'm passionate about becoming a front-end web developer and exploring related technologies.
+I'm **@DzikriDhaniawan**, a passionate and ambitious learner aspiring to become a **front-end web developer**. My ultimate dream? Master both the front-end and back-end to become a proficient **full-stack developer**! 🚀
 
-- 🚀 I'm still a newbie and always eager to learn more!
-- 🌟 My goal is to become a proficient front-end developer, and maybe a full-stack developer someday.
+- 🌱 Always excited to learn and grow in the tech space.  
+- 🎯 Currently focused on improving my coding skills and diving deep into front-end development.  
+- 🛠 Open to collaborating on exciting projects and sharing knowledge with the community.
 
-## Currently Learning
-### Languages and Tools:
+---
+
+## 🔧 Currently Learning
+Here are some of the languages and tools I'm exploring to sharpen my skills:
+
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -20,21 +24,27 @@ I am @DzikriDhaniawan. I'm passionate about becoming a front-end web developer a
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
 </p>
 
-## GitHub Stats
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DzikriDhaniawan&langs_count=6&theme=tokyonight)
+---
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)][github]
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)][email]
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzikriDhaniawan&langs_count=6&theme=tokyonight" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=DzikriDhaniawan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
 
-[linkedin]: https://www.linkedin.com/in/dzikri-dhaniawan-189207333
-[github]: https://github.com/DzikriDhaniawan
-[instagram]: https://instagram.com/dhaniawannn
-[email]: mailto:dhaniawan.dzikri@gmail.com
+---
 
-<!---
-DzikriDhaniawan/DzikriDhaniawan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌐 Connect with Me
+Feel free to reach out and connect on my platforms below:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dzikri-dhaniawan-189207333"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/DzikriDhaniawan"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://instagram.com/dhaniawannn"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:dhaniawan.dzikri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+✨ Thank you for visiting my profile! Let's grow together! 🚀
