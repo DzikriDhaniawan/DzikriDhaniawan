@@ -1,22 +1,29 @@
-- 👋 Hi, I’m @DzikriDhaniawan
-  
-- 👀 I’m interested in front end web developer and something like that.
-- 🌱 I’m currently learning C, C++, Phyton, HTML, CSS, JavaScript, PHP, SQL, Cisco, Networking a little bit.
+# Hi there 👋
 
-- Im still newbie and still always learning:)
-- Hopefully someday become a really front end developer or higher! maybe become a fullstack dev too....
+## About Me
+I am @DzikriDhaniawan. I'm passionate about becoming a front-end web developer and exploring related technologies.
 
-- ### Connect with me:
+- 🌱 I’m currently learning:
+  - C, C++, Python
+  - HTML, CSS, JavaScript
+  - PHP, SQL
+  - Cisco, Networking
+
+- 🚀 I'm still a newbie and always eager to learn more!
+- 🌟 My goal is to become a proficient front-end developer, and maybe a full-stack developer someday.
+
+## GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=DzikriDhaniawan&count_private=true&theme=tokyonight&showicons=true)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DzikriDhaniawan&langs_count=6&theme=tokyonight)
+
+## Connect with Me
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/dzikri-dhaniawan-189207333
 [github]: https://github.com/DzikriDhaniawan
-[twitter]: https://instagram.com/dhaniawannn
-
-
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DzikriDhaniawan&langs_count=6&theme=tokyonight)
+[instagram]: https://instagram.com/dhaniawannn
 
 <!---
 DzikriDhaniawan/DzikriDhaniawan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
