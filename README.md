@@ -49,4 +49,4 @@ Feel free to reach out and connect on my platforms below:
 
 ---
 
-✨ Thank you for visiting my profile! Feel free to star my repositories and follow me for more updates. Let's grow together! 🚀
+✨ Thank you for visiting my profile! Let's grow together! 🚀
