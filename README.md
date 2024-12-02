@@ -13,10 +13,11 @@ I am @DzikriDhaniawan. I'm passionate about becoming a front-end web developer a
 - 🌟 My goal is to become a proficient front-end developer, and maybe a full-stack developer someday.
 
 ## GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=DzikriDhaniawan&count_private=true&theme=tokyonight&showicons=true)
+
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DzikriDhaniawan&langs_count=6&theme=tokyonight)
 
 ## Connect with Me
+
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
