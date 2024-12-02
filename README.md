@@ -19,7 +19,7 @@ I am @DzikriDhaniawan. I'm passionate about becoming a front-end web developer a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)][github]
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
-[![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=email&logoColor=black)][Email]
+[![Email](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=black)][Email]
 
 [linkedin]: https://www.linkedin.com/in/dzikri-dhaniawan-189207333
 [github]: https://github.com/DzikriDhaniawan
