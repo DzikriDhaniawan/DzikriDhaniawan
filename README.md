@@ -1,5 +1,3 @@
-# Hi there 👋 
-
 ## About Me
 I'm **@DzikriDhaniawan**, a passionate and ambitious learner aspiring to become a **front-end web developer**. My ultimate dream? Master both the front-end and back-end to become a proficient **full-stack developer**! 🚀
 
